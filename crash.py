@@ -26,7 +26,7 @@ def loop():
     print(Fore.RED + head)
     print(Fore.YELLOW + "Version 1.0".center(70))
     print(Fore.CYAN + "\nThis tool was created by Spider Anongreyhat\n\nFind me on WhatsApp:+2349052863644👨‍💻👨‍💻\n\n\n")
-    print(Fore.GREEN + "✴️CyberDome☠️\n\n"
+    print(Fore.GREEN + "✴️CyberDome YT  SUBSCRIBE OUR CHANNEL :https://youtube.com/channel/UCCpLm1tWTI0NUDRmrzKMOMg ☠️\n\n"
     )  
     crash = {'text' : """
     Hi guys, this is  cool check it out
