@@ -18,7 +18,7 @@ except:
 from colorama import *
 colorama.init(autoreset=True)
 os.system("clear")
-print(Fore.RED + "WhatsApp Crash: This tool is meant for malicious purposely only☠️☠️💀\n\nLet\'s act and stay wicked 😠😠😡🤬\n\nWe don\'t forgive and forget 😈😈\n\nLet us crash WhatsApp 😠😡😡😡")
+print(Fore.RED + "Tutorial by CyberDome!!WhatsApp Crash: This tool is meant for malicious purposely only☠️☠️💀\n\nLet\'s act and stay wicked 😠😠😡🤬\n\nWe don\'t forgive and forget 😈😈\n\nIf you like this tool Subscribe our channel CyberDome for new tools tutorials\n\nLet us crash WhatsApp 😠😡😡😡")
 t.sleep(5)
 def loop():
     os.system("clear")
@@ -26,7 +26,7 @@ def loop():
     print(Fore.RED + head)
     print(Fore.YELLOW + "Version 1.0".center(70))
     print(Fore.CYAN + "\nThis tool was created by Spider Anongreyhat\n\nFind me on WhatsApp:+2349052863644👨‍💻👨‍💻\n\n\n")
-    print(Fore.GREEN + "😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😈😈😈😈😈😈Wickedness Only😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😈😈😈😈😈😡☠️\n\n"
+    print(Fore.GREEN + "✴️CyberDome☠️\n\n"
     )  
     crash = {'text' : """
     Hi guys, this is  cool check it out
